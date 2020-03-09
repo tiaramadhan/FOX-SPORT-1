@@ -2,10 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://160.119.77.50/iptv/hd-foxsports1eng.stream/chunks.m3u8
-
-#EXTM3U 
-#EXT-X-VERSION:3
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w1869457853_b1344100_sleng.m3u8?enc=yx13JpKmTtuBBwzTRxO1rw&exp=1583654751
+http://m3ulink.com:7899/live/tia46rossi1/yv0Wz5tC/17054.m3u8
